@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -41,25 +41,28 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### What I learned
+While I was doing this project I managed to learn how to create a git repository and moreover in my code i learnt how to make a shadow in an element like below.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
+.whitebox{
+    align-items: center;
+    background-color: white;
+    border-radius: 20px;
+    padding: 1.25rem;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
+    width: 300px;
+    height: 445px;
+    
+    margin-left: 780px;
+    margin-top: 200px;
+    position: relative;
+    
 }
-```
+
+'box-shadow: 5px 5px 5px rgba(0,0,0,0.15);'
+
+which i go to know after watching and learning from a video which is linked below.
 
 
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 
 
